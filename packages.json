@@ -1,10 +1,35 @@
 [
-  { "package": "pagerankr",  "url": "https://gitlab.com/bart-turczynski/pagerankr" },
-  { "package": "pslr",       "url": "https://gitlab.com/bart-turczynski/pslr" },
-  { "package": "punycoder",  "url": "https://gitlab.com/bart-turczynski/punycoder" },
-  { "package": "raddr",      "url": "https://gitlab.com/bart-turczynski/raddr" },
-  { "package": "robotstxtr", "url": "https://gitlab.com/bart-turczynski/robotstxtr" },
-  { "package": "rurl",       "url": "https://gitlab.com/bart-turczynski/rurl" },
-  { "package": "seor",       "url": "https://gitlab.com/bart-turczynski/seor" },
-  { "package": "sitemapr",   "url": "https://gitlab.com/bart-turczynski/sitemapr" }
+  {
+    "package": "pagerankr",
+    "url": "https://gitlab.com/bart-turczynski/pagerankr"
+  },
+  {
+    "package": "pslr",
+    "url": "https://gitlab.com/bart-turczynski/pslr"
+  },
+  {
+    "package": "punycoder",
+    "url": "https://gitlab.com/bart-turczynski/punycoder"
+  },
+  {
+    "package": "raddr",
+    "url": "https://gitlab.com/bart-turczynski/raddr"
+  },
+  {
+    "package": "robotstxtr",
+    "url": "https://gitlab.com/bart-turczynski/robotstxtr"
+  },
+  {
+    "package": "rurl",
+    "url": "https://gitlab.com/bart-turczynski/rurl"
+  },
+  {
+    "package": "seor",
+    "url": "https://gitlab.com/bart-turczynski/seor",
+    "branch": "main"
+  },
+  {
+    "package": "sitemapr",
+    "url": "https://gitlab.com/bart-turczynski/sitemapr"
+  }
 ]
